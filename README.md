@@ -5,3 +5,4 @@ jolali pertama expor database
 3. buka browser ketik htp://localhost:8000/
 4. gjdghdgh
 5. fgsfgsfgs
+6. ghjkl
